@@ -1,0 +1,10 @@
+
+node_modules
+extra
+yarn-error.log
+
+server/config/dev.js
+
+profile
+questionpaper
+thumbnail
